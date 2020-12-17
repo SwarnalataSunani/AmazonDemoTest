@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="137113" started-at="2020-12-17T09:56:46Z" finished-at="2020-12-17T09:59:03Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="137113" started-at="2020-12-17T09:56:46Z" finished-at="2020-12-17T09:59:03Z">
+      <class name="in.amazon.tests.TestLogin">
+        <test-method status="PASS" signature="checkRunMode()[pri:0, instance:in.amazon.tests.TestLogin@5e3a8624]" name="checkRunMode" is-config="true" duration-ms="8393" started-at="2020-12-17T15:26:46Z" finished-at="2020-12-17T15:26:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRunMode -->
+        <test-method status="PASS" signature="loginm()[pri:1, instance:in.amazon.tests.TestLogin@5e3a8624]" name="loginm" duration-ms="23046" started-at="2020-12-17T15:26:54Z" finished-at="2020-12-17T15:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginm -->
+        <test-method status="PASS" signature="quiteBrowser()[pri:0, instance:in.amazon.tests.TestLogin@5e3a8624]" name="quiteBrowser" is-config="true" duration-ms="755" started-at="2020-12-17T15:27:17Z" finished-at="2020-12-17T15:27:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quiteBrowser -->
+        <test-method status="PASS" signature="checkRunMode()[pri:0, instance:in.amazon.tests.TestLogin@5e3a8624]" name="checkRunMode" is-config="true" duration-ms="6191" started-at="2020-12-17T15:27:18Z" finished-at="2020-12-17T15:27:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRunMode -->
+        <test-method status="PASS" signature="afterProductAdd()[pri:2, instance:in.amazon.tests.TestLogin@5e3a8624]" name="afterProductAdd" duration-ms="17831" started-at="2020-12-17T15:27:24Z" finished-at="2020-12-17T15:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterProductAdd -->
+        <test-method status="PASS" signature="quiteBrowser()[pri:0, instance:in.amazon.tests.TestLogin@5e3a8624]" name="quiteBrowser" is-config="true" duration-ms="744" started-at="2020-12-17T15:27:42Z" finished-at="2020-12-17T15:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quiteBrowser -->
+        <test-method status="PASS" signature="checkRunMode()[pri:0, instance:in.amazon.tests.TestLogin@5e3a8624]" name="checkRunMode" is-config="true" duration-ms="35003" started-at="2020-12-17T15:27:43Z" finished-at="2020-12-17T15:28:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRunMode -->
+        <test-method status="PASS" signature="saveForLater()[pri:3, instance:in.amazon.tests.TestLogin@5e3a8624]" name="saveForLater" duration-ms="44261" started-at="2020-12-17T15:28:18Z" finished-at="2020-12-17T15:29:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveForLater -->
+        <test-method status="PASS" signature="quiteBrowser()[pri:0, instance:in.amazon.tests.TestLogin@5e3a8624]" name="quiteBrowser" is-config="true" duration-ms="858" started-at="2020-12-17T15:29:02Z" finished-at="2020-12-17T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quiteBrowser -->
+      </class> <!-- in.amazon.tests.TestLogin -->
+    </test> <!-- test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

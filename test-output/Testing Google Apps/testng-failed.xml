@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Testing Google Apps]">
+  <test name="Regression(failed)">
+    <classes>
+      <class name="testPack.TrailTest">
+        <methods>
+          <include name="TrialClassMRB"/>
+          <include name="TrialClass"/>
+        </methods>
+      </class> <!-- testPack.TrailTest -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [Testing Google Apps] -->
